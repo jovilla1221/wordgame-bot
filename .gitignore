@@ -6,3 +6,9 @@ data/*.json
 !data/words_*.txt
 *.log
 *.pid
+node_modules/
+.venv/
+venv/
+*.db-shm
+*.db-wal
+*.session
